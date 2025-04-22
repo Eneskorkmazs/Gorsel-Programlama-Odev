@@ -1,0 +1,20 @@
+C:\Users\sahin\source\repos\Ödev\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\sahin\source\repos\Ödev\Ödev\bin\Debug\Ödev.exe
+C:\Users\sahin\source\repos\Ödev\Ödev\bin\Debug\Ödev.pdb
+C:\Users\sahin\source\repos\Ödev\Ödev\obj\Debug\Ödev.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\Ödev\Ödev\obj\Debug\Ödev.Form1.resources
+C:\Users\sahin\source\repos\Ödev\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\sahin\source\repos\Ödev\Ödev\obj\Debug\Ödev.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\Ödev\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\Ödev\Ödev\obj\Debug\Ödev.exe
+C:\Users\sahin\source\repos\Ödev\Ödev\obj\Debug\Ödev.pdb
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\bin\Debug\Ödev.exe
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\bin\Debug\Ödev.pdb
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\obj\Debug\Ödev.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\obj\Debug\Ödev.Form1.resources
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\obj\Debug\Ödev.csproj.GenerateResource.cache
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\obj\Debug\Ödev.exe
+C:\Users\sahin\OneDrive - Sinop Universitesi\Masaüstü\Enes Korkmaz\Ödev\obj\Debug\Ödev.pdb
